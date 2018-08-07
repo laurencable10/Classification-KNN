@@ -1,4 +1,4 @@
-# Intro To Classifcation - K Nearest Neighbors 
+# Classifcation - K Nearest Neighbors (KNN) 
 
 ## Using Wisconsin Breast Cancer Data Set
 
